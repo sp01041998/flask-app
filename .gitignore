@@ -1,0 +1,6 @@
+venv/
+config/
+instance/
+myapp/__pycache__/
+myapp/route/__pycache__/
+myapp/models/__pycache__/
